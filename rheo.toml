@@ -1,0 +1,20 @@
+version = "0.6.4"
+content_dir = "content"
+
+[spine]
+exclude = ["_lib/**"]
+prelude = "_lib/prelude.typ"
+
+[[html.assets]]
+css_stylesheet = "./style.css"
+
+[pdf.spine]
+title = "Terms and Conditions"
+exclude = ["_lib/**"]
+
+[epub.spine]
+title = "Terms and Conditions"
+exclude = ["_lib/**"]
+
+[packages.rookery]
+releases = "freecomputinglab/rookery"
