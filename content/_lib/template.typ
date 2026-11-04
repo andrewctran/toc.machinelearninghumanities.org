@@ -50,7 +50,7 @@
     Last updated #datetime.today().display("[year]-[month]-[day]")
   ]
   #html.elem("span", attrs: (class: "colophon"))[
-    A project of #link(GROUP-URL)[#GROUP]. Built with #link("https://rheo.ohrg.org")[Rheo] and #link("https://rookery.ohrg.org")[Rookery]
+    A project of #link(GROUP-URL)[#GROUP].
   ]
 ]
 
