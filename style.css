@@ -226,6 +226,10 @@ pre {
     margin-top: 0;
 }
 
+.section-head + p {
+    padding-top: 0;
+}
+
 .listing {
     border: var(--line) solid var(--box-border);
 }
@@ -244,6 +248,22 @@ pre {
 
 .listing-item p {
     padding-top: 0;
+}
+
+/* Lists written in page content keep their markers; the base reset strips
+   them for lists used as layout, such as the term grid. */
+.page-main ol,
+.page-main ul:not(.term-grid) {
+    padding-top: var(--paragraph-gap);
+    padding-left: 2em;
+}
+
+.page-main ol {
+    list-style-type: decimal;
+}
+
+.page-main ul:not(.term-grid) {
+    list-style-type: disc;
 }
 
 /* Cells share borders: the grid draws the top and left edges, each cell its
