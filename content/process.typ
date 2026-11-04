@@ -27,9 +27,6 @@
     After the discussion, the group chooses an editor, who works with the steward to write the entry. The entry is submitted as a pull request to the #link("https://github.com/andrewctran/toc.machinelearninghumanities.org")[repository on GitHub]. Entries are written in #link("https://typst.app")[Typst] and published as this website through #link("https://rheo.ohrg.org")[Rheo]. There is no deadline; each session checks in on the terms in flight.
   ],
   [
-    #side-box("Adapted from")[
-      This process is adapted from #link("https://lolm.ohrg.org/working-group.html")[Progressing the Terminology], by The Language of Language Machines.
-    ]
     #side-box("Tools")[
       #entity[#link("https://github.com/andrewctran/toc.machinelearninghumanities.org")[GitHub], for the source and pull requests]
       #entity[#link("https://typst.app/docs/tutorial/")[Typst], the markup entries are written in]
