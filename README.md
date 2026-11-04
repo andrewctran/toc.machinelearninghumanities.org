@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-A bestiary of terms from machine learning, in the manner of [The Language of Language Machines](https://lolm.ohrg.org) ([source](https://github.com/freecomputinglab/lolm.ohrg.org)). A project of the [Machine Learning Humanities](https://machinelearninghumanities.org) working group, published at [toc.machinelearninghumanities.org](https://toc.machinelearninghumanities.org).
+A project of the [Machine Learning Humanities](https://machinelearninghumanities.org) working group, published at [toc.machinelearninghumanities.org](https://toc.machinelearninghumanities.org).
 
 The site is written in [Typst](https://typst.app) and compiled by [Rheo](https://rheo.ohrg.org), with [Rookery](https://rookery.ohrg.org) loaded. It shares its design system with [machinelearninghumanities.org](https://github.com/andrewctran/machinelearninghumanities.org). GitHub Actions builds the site and deploys it to GitHub Pages on every push to `main`.
 
