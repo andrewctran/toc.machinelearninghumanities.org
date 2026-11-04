@@ -1,8 +1,8 @@
-#set document(title: "“Terms and Conditions” - Process")
+#set document(title: "“Terms and Conditions” - Contributing")
 
 #page-columns(
   [
-    #section-head("Process")
+    #section-head("Contributing")
 
     Entries are written through the working group. This page describes how a term is brought in, written up and published.
 

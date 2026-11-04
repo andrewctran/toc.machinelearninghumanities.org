@@ -20,7 +20,7 @@
 // The header nav, as (name, page label) pairs.
 #let NAV = (
   ("Terms", "index"),
-  ("Process", "process"),
+  ("Contributing", "contributing"),
 )
 
 // `page` is the current page's label. Term pages aren't in the nav, so they
@@ -36,7 +36,6 @@
         link(label(target))[#name]
       }
     }
-    #link(GROUP-URL)[#GROUP]
   ]
 }
 

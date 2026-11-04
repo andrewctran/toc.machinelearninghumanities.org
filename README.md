@@ -43,7 +43,7 @@ To add a term, add it to `TERMS` and create its page. The grid has 3 columns on 
 ```
 content/
   index.typ            the term grid, What is this? and Who does this?
-  process.typ          how entries are written
+  contributing.typ     how entries are written
   <handle>.typ         one page per term
   _lib/
     terms.typ          every term and its status

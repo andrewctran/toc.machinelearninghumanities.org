@@ -109,7 +109,7 @@
       #section-head(name, more: link(label("index"))[All terms])
       #if empty {
         notice("Not yet written.")[
-          This entry needs a steward. See #link(label("process"))[Process] for how to take it on.
+          This entry needs a steward. See #link(label("contributing"))[Contributing] for how to take it on.
         ]
       } else {
         body
