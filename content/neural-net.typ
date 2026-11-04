@@ -1,3 +1,3 @@
-#set document(title: "Terms and Conditions - neural net")
+#set document(title: "“Terms and Conditions” - neural net")
 
 #entry("neural net")[]

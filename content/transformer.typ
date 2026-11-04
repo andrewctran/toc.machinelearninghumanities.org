@@ -1,3 +1,3 @@
-#set document(title: "Terms and Conditions - transformer")
+#set document(title: "“Terms and Conditions” - transformer")
 
 #entry("transformer")[]

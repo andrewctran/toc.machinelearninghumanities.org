@@ -1,3 +1,3 @@
-#set document(title: "Terms and Conditions - superposition")
+#set document(title: "“Terms and Conditions” - superposition")
 
 #entry("superposition")[]

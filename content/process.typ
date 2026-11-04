@@ -1,4 +1,4 @@
-#set document(title: "Terms and Conditions - Process")
+#set document(title: "“Terms and Conditions” - Process")
 
 #page-columns(
   [

@@ -1,3 +1,3 @@
-#set document(title: "Terms and Conditions - gpu")
+#set document(title: "“Terms and Conditions” - gpu")
 
 #entry("gpu")[]

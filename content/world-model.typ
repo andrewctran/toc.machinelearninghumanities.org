@@ -1,3 +1,3 @@
-#set document(title: "Terms and Conditions - world model")
+#set document(title: "“Terms and Conditions” - world model")
 
 #entry("world model")[]

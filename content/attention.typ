@@ -1,3 +1,3 @@
-#set document(title: "Terms and Conditions - attention")
+#set document(title: "“Terms and Conditions” - attention")
 
 #entry("attention")[]

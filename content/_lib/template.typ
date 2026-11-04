@@ -13,7 +13,7 @@
   label-size: "14px",
 )
 
-#let SITE = "Terms and Conditions"
+#let SITE = "“Terms and Conditions”"
 #let GROUP = "Machine Learning Humanities"
 #let GROUP-URL = "https://machinelearninghumanities.org"
 

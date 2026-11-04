@@ -1,3 +1,3 @@
-#set document(title: "Terms and Conditions - alignment")
+#set document(title: "“Terms and Conditions” - alignment")
 
 #entry("alignment")[]

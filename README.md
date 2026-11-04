@@ -1,4 +1,4 @@
-# Terms and Conditions
+# “Terms and Conditions”
 
 A project of the [Machine Learning Humanities](https://machinelearninghumanities.org) working group, published at [toc.machinelearninghumanities.org](https://toc.machinelearninghumanities.org).
 
@@ -27,7 +27,7 @@ Every term is listed in `content/_lib/terms.typ` with a status, and has a page a
 A term's page calls `entry` with the term's name exactly as it appears in `TERMS`. With an empty body, the page shows a "Not yet written" notice. To write the entry, put it in the body and name the steward and editor:
 
 ```typst
-#set document(title: "Terms and Conditions - attention")
+#set document(title: "“Terms and Conditions” - attention")
 
 #entry("attention", steward: "Name", editor: "Name")[
   The entry, around 5 to 10 paragraphs.

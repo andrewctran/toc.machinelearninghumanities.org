@@ -9,11 +9,11 @@ prelude = "_lib/prelude.typ"
 css_stylesheet = "./style.css"
 
 [pdf.spine]
-title = "Terms and Conditions"
+title = "“Terms and Conditions”"
 exclude = ["_lib/**"]
 
 [epub.spine]
-title = "Terms and Conditions"
+title = "“Terms and Conditions”"
 exclude = ["_lib/**"]
 
 [packages.rookery]

@@ -1,3 +1,3 @@
-#set document(title: "Terms and Conditions - few shot")
+#set document(title: "“Terms and Conditions” - few shot")
 
 #entry("few shot")[]

@@ -1,3 +1,3 @@
-#set document(title: "Terms and Conditions - counterfactuality")
+#set document(title: "“Terms and Conditions” - counterfactuality")
 
 #entry("counterfactuality")[]

@@ -1,3 +1,3 @@
-#set document(title: "Terms and Conditions - benchmarking")
+#set document(title: "“Terms and Conditions” - benchmarking")
 
 #entry("benchmarking")[]
