@@ -1,4 +1,4 @@
-// Every term in the bestiary, in display order. A term's page is
+// Every term, in display order. A term's page is
 // `content/<handle>.typ`, where the handle is the name with spaces as hyphens.
 // Status is "open" (no steward yet), "in-flight" (being written) or
 // "complete".
